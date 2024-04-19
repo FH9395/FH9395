@@ -25,7 +25,7 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I’m working as a Software Engineer and developing Android apps in both JAVA and Kotlin.
 - :zap: I’m currently working on native Android Development with Kotlin, MVVM, Maps, AdMobs, Firebase, FCM, Retrofit, Livedata, Coroutines. And some part time projects on Fiverr and Upwork...
-- :mailbox:How to reach me: waqary268@gmail.com
+- :mailbox:How to reach me: saqlainfahad777@gmail.com
 <div id="badges">
 
 <h3 align="left">Connect with me:</h3>
