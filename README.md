@@ -9,7 +9,7 @@ FH9395/FH9395 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <h1>
-  Hi Waqar here
+  Hi Fahad here
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <img src="https://komarev.com/ghpvc/?username=talhaZahid1996&style=flat-square&color=blue" align="right" alt=""/>
 </h1>
@@ -30,9 +30,8 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-waqar-younas-525973197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-waqar-younas-525973197" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammad_waqar_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_waqar_99" height="30" width="40" /></a>
-<a href="https://twitter.com/waqarra26557320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waqarra26557320" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fahad-hussain-7a90a7205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-hussain-7a90a7205" height="30" width="40" /></a>
+<a href="https://instagram.com/fahad_hussain9395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahad_hussain9395" height="30" width="40" /></a>
 </p>
 
 
